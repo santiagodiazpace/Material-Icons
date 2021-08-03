@@ -1,0 +1,26 @@
+ 
+.material-icons {
+    font-size:60px;
+    padding-left: 20px;
+    color: red;
+}
+
+.myicon {
+    opacity: 0;
+}
+
+.container {
+    padding: 30px;
+    display: flex;
+    align-items: center;
+}
+
+a {
+    font-size: 30px;
+    padding-left: 5px;
+}
+
+p {
+    margin-left: 20px;
+    margin-top: 20px;
+}
