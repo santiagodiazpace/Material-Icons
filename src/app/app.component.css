@@ -9,6 +9,10 @@
     opacity: 0;
 }
 
+.theicon {
+    opacity: 0;
+}
+
 .container {
     padding: 30px;
     display: flex;
@@ -23,4 +27,7 @@ a {
 p {
     margin-left: 20px;
     margin-top: 20px;
+    color: blue;
 }
+
+
